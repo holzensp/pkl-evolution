@@ -1,6 +1,6 @@
 = SPICE Name
 
-* Proposal: [SPICE-NNNN](./SPICE-NNNN-name-of-proposal.adoc)
+* Proposal: link:./NNNN-name-of-proposal.adoc[SPICE-NNNN]
 * Status: Accepted or Rejected
 * Implemented in: Pkl <version>
 * Category: Language, Standard Library, Tooling
